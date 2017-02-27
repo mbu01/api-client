@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  api-client: 2ed061482bc6289ca49fb6410207c2348db159a1
+  api-client: 6bdccfd2ea377390b95f878ebccf289fbc3209d0
 
 PODFILE CHECKSUM: d17e925ee23d9c4e4f5c838431e011516f1f4c8f
 

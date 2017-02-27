@@ -1,6 +1,6 @@
 import UIKit
 import XCTest
-import api-client
+import api_client
 
 class Tests: XCTestCase {
     
