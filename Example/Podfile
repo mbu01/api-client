@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'api-client_Example' do
+  pod 'api-client', :path => '../'
+
+  target 'api-client_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
