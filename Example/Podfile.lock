@@ -1,0 +1,16 @@
+PODS:
+  - api-client (0.1.0)
+
+DEPENDENCIES:
+  - api-client (from `../`)
+
+EXTERNAL SOURCES:
+  api-client:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  api-client: 2ed061482bc6289ca49fb6410207c2348db159a1
+
+PODFILE CHECKSUM: d17e925ee23d9c4e4f5c838431e011516f1f4c8f
+
+COCOAPODS: 1.2.0.beta.3

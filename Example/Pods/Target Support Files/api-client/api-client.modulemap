@@ -1,0 +1,6 @@
+framework module api_client {
+  umbrella header "api-client-umbrella.h"
+
+  export *
+  module * { export * }
+}

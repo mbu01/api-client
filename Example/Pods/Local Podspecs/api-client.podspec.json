@@ -1,0 +1,22 @@
+{
+  "name": "api-client",
+  "version": "0.1.0",
+  "summary": "A short description of api-client.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Min.Bu@tufts.edu/api-client",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Min.Bu@tufts.edu": "min@intrepid.io"
+  },
+  "source": {
+    "git": "https://github.com/Min.Bu@tufts.edu/api-client.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "api-client/Classes/**/*"
+}
